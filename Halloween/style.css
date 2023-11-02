@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+header{
+    background-color: lightgray;
+    align-items: end;
+}
+
+button{
+    background-color: darkred;
+    color: white;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: 4fr 4fr 4fr;
+}
+
+#item1{
+    background-color: lightgrey;
+    text-align: center;
+
+}
